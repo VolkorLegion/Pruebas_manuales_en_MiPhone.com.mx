@@ -25,4 +25,4 @@
 
 ### El último error importante que se detectó con estas pruebas fue con el método de pago con tarjeta. El sitio por alguna razón habilita un modo de pruebas llamado Sandbox Mode, y provee indicaciones de utilizar una tarjeta bancaria con número 4111 1111 1111 1111 con CVV al azar y una fecha de vencimiento válida. Esta leyenda no debería de presentarse en producción ya que está diseñada solo para testers que utilicen un sitió que está en periodo de pruebas.
 
-#### Las tecnologias utilizadas fueron solamente los navegadores Google Chrome, Microsoft Edge, Google Sheets y Github de la mano de un equipo con Windows 11.
+#### Las tecnologias utilizadas fueron solamente los navegadores Google Chrome, Microsoft Edge, Google Sheets, Jira y Github de la mano de un equipo con Windows 11.
